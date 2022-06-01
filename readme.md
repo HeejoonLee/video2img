@@ -2,6 +2,8 @@
 
 Convert a video to images and timestamp
 
+The output format matches the format of *kitti* dataset.
+
 ## Requirements
 
 Python3
